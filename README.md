@@ -18,12 +18,5 @@ El proyecto incluye el código necesario para resolver el problema de programaci
 
 ## Resultados
 
-Los resultados obtenidos muestran un nuevo fixture que cumple con las restricciones establecidas y busca minimizar las injusticias percibidas en el formato anterior. Se discuten las implicaciones y posibles mejoras para futuras ediciones de las eliminatorias sudamericanas.
+Los resultados obtenidos muestran nuevos fixtures que cumplen con las restricciones establecidas y buscan minimizar las injusticias percibidas en el formato anterior. Se discuten las implicaciones y posibles mejoras para futuras ediciones de las eliminatorias sudamericanas.
 
-## Contribuciones
-
-Se anima a la comunidad a contribuir con ideas, sugerencias y mejoras al proyecto. Se pueden abrir problemas para discutir posibles mejoras en el código o en el enfoque del problema, así como también enviar solicitudes de extracción con nuevas funcionalidades o correcciones de errores.
-
-## Autores
-
-Este proyecto fue desarrollado por [Nombre del Equipo/Desarrolladores] como parte de [Proyecto/Asignatura/Investigación], bajo la supervisión de [Supervisor/Profesor]. Se agradece a [Institución/Universidad] por el apoyo brindado.
