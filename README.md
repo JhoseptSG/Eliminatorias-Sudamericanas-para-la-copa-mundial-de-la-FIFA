@@ -8,7 +8,7 @@ En cada edición de la Copa del Mundo entre 1998 y 2014, la CONMEBOL utilizó un
 
 ## Base de la formulación
 
-El proyecto se basa en la formulación de variables y restricciones para modelar el problema. Se define un conjunto de equipos \(I\) y un conjunto de rondas \(K\). Las variables binarias \(x_{i,j,k}\) representan si el equipo \(i\) juega como local contra el equipo \(j\) en la ronda \(k\).
+El proyecto se basa en la formulación de variables y restricciones para modelar el problema. Se define un conjunto de equipos I y un conjunto de rondas K. Las variables binarias X~ijk~ representan si el equipo i juega como local contra el equipo j en la ronda k.
 
 Se establecen restricciones como el doble round robin, la compacidad y el balance en las secuencias de local-visitante. La función objetivo busca minimizar el número total de descansos como visitante en las rondas dobles para todos los equipos.
 
