@@ -19,4 +19,5 @@ Además, considerando las variantes previamente realizadas y atendiendo a las pr
 
 ## Código y Uso
 
-El proyecto incluye el código necesario para resolver el problema de programación lineal y generar un nuevo fixture para las eliminatorias sudamericanas. Se proporciona documentación detallada sobre cómo ejecutar el código y cómo interpretar los resultados.
+El proyecto contiene el código necesario para resolver el problema de programación lineal y generar un nuevo fixture para las eliminatorias sudamericanas en formato ZPL, con cada variación formulada. Para obtener la solución, simplemente se requiere ejecutar el archivo deseado en SCIP u otro framework de programación lineal entera.
+
