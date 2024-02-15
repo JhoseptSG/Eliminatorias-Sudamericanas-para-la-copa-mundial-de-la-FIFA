@@ -9,13 +9,12 @@ La decisión de hacer el fixture de esta manera llevó a muchas injusticias y qu
 
 Nuestro objetivo con este trabajo es definir el fixture de las eliminatorias sudamericanas de fútbol para el mundial de futbol 2018. Para hacer esto vamos a hacer uso de programación lineal.
 
-## informe
+## Informe
 
-En el informe, hemos definido las variables que utilizamos junto con sus respectivas restricciones para explorar diferentes configuraciones de fixtures. El pedido inicial de un esquema completamente simétrico resultó ser inviable, por lo que hemos explorado diversas opciones como el esquema francés, inglés, entre otros.
+En el informe, además de presentar todos los posibles fixtures, hemos explicado cómo están definidas las variables que utilizamos, junto con sus respectivas restricciones, para explorar diferentes configuraciones de 
+fixtures, tales como el esquema francés, inglés, entre otros. Una vez obtenidas todas las configuraciones, procedimos a sortear los países asignando un número a cada uno, y completamos los fixtures en cada esquema, asegurándonos de no mostrar favoritismo hacia ningún país en particular.
 
-Una vez obtenidas todas las configuraciones, procedimos a sortear los países asignando un número a cada uno, y completamos los fixtures en cada esquema, asegurándonos de no mostrar favoritismo hacia ningún país en particular.
-
-Además, considerando las variantes previamente realizadas y atendiendo a las preocupaciones de las federaciones de los países, quienes han expresado que jugar contra Argentina y Brasil en fechas consecutivas desmotiva a los jugadores debido a la casi inevitable derrota, hemos incorporado una restricción adicional para evitar esta situación. Por lo tanto, se han generado nuevos fixtures teniendo en cuenta esta restricción.
+Además, en consideración a las variantes previamente realizadas y atendiendo a las preocupaciones expresadas por las federaciones de los países, quienes han señalado que jugar contra Argentina y Brasil en fechas consecutivas desmotiva a los jugadores debido a la casi inevitable derrota, hemos incorporado una restricción adicional para evitar esta situación. Por consiguiente, se han generado nuevos fixtures teniendo en cuenta esta restricción.
 
 ## Código y Uso
 
